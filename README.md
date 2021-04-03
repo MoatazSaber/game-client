@@ -13,7 +13,7 @@ To run the project locally, you should first have both _repositories_ cloned to 
 To get the *server* on port 3000 and then the *client* would start on\
 [http://localhost:3001/?user-id=1](http://localhost:3001/?user-id=1)\
 and\
-[http://localhost:3001/?user-id=2](http://localhost:3001/?user-id=1)\
+[http://localhost:3001/?user-id=2](http://localhost:3001/?user-id=1)
 
 # Install all needed dependencies by running
 
