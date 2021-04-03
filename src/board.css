@@ -1,0 +1,85 @@
+.board {
+  margin-top: 15vh;
+  margin-left: 10vw;
+  color: white;
+}
+
+.blue-orange-container {
+  display: inline-block;
+  width: 38vw;
+  height: 40vh;
+  max-width: 560px;
+  background-color: #d9d9d9;
+  padding: 0.5% 0.3%;
+}
+
+.blue-container {
+  width: 99%;
+  height: 70%;
+  background-color: #00aeef;
+}
+
+.orange-container {
+  width: 99%;
+  height: 25%;
+  background-color: #f5821e;
+  margin-top: 3%;
+}
+
+.vertical-container {
+  display: inline-block;
+  width: 38vw;
+  height: 40vh;
+  /* padding: .5%; */
+  margin-left: 2%;
+}
+
+.goods-sold-container {
+  width: 85px;
+  height: 66%;
+  background-color: #00aeef;
+}
+
+.rmp-container {
+  width: 85px;
+  height: 24%;
+  margin-top: 3%;
+
+  background-color: #a7a9ac;
+}
+
+.magenta-container {
+  display: flex;
+  width: 38vw;
+  height: 10vh;
+  max-width: 560px;
+  background-color: #d9d9d9;
+  padding: 0.3%;
+  margin-left: 0px !important;
+  font-size: 0.6em;
+  padding: 5px;
+}
+
+.owners-container {
+  display: inline-block;
+  flex: 0 0 33%;
+  background-color: #da2c74;
+}
+
+.lenders-container {
+  display: inline-block;
+  flex: 0 0 33%;
+  margin: 0 5px;
+  background-color: #cb58a2;
+}
+
+.community-container {
+  display: inline-block;
+  flex: 0 0 33%;
+
+  background-color: #cb58a2;
+}
+
+.highlight-region{
+  background-color: khaki;
+}
